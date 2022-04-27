@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dkahhori
+- 👀 I’m interested in Swift Programming, Digital Marketing, and Graphic design.
+- 🌱 I’m currently Self-pathing Swift Programming.
+- 💞️ I’m looking to collaborate on start-up projects. 
