@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dkahhori
-- 👀 I’m interested in Swift Programming, Digital Marketing, and Graphic design.
-- 🌱 I’m currently Self-pathing Swift Programming.
+- 👋 Hi, I’m Dilshod.
+- 👀 Interested in Swift Programming and Digital Marketing.
+- 🌱 Currently Self-pathing iOS Development.
 - 💞️ I’m looking to collaborate on start-up projects. 
