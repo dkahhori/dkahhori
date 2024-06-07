@@ -6,7 +6,7 @@ As an iOS Developer currently working at a progressive and leading microfinance 
 
 ## Voluntary 
 Additionally, to assist Central Asian migrants in assimilating into foreign countries, especially Russia, I have been building phrasebooks & dictionaries to cross the language barrier. The latest project of mine is: 
-* [Russian-Uzbek Phrasebook & Dictionary] (https://apps.apple.com/tj/app/ru-uz/id6474094730) <br />
+* [Russian-Uzbek Phrasebook](https://apps.apple.com/tj/app/ru-uz/id6474094730) <br />
 
 ## Portfolio
 * [Хумо Переводы](https://apps.apple.com/us/app/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%8B-%D0%B2-%D1%82%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD/id1497473277) <br />
