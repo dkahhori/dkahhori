@@ -1,5 +1,5 @@
 
-![Simulator Screenshot - iPhone 15 Pro Max - 2024-05-23 at 15 24 52](https://github.com/dkahhori/dkahhori/assets/101136418/d1696376-399b-46d9-a0b0-4d0e6bfe3f06)
+![photo_2024-05-28 17 53 14](https://github.com/dkahhori/dkahhori/assets/101136418/82740c89-e86f-4b6f-a139-97c498aeea43)
 
 # Welcome! I'm Dilshodi Kahori
 ## Introduction 🙂
