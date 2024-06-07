@@ -1,4 +1,4 @@
-![Uploading photo_2024-05-28 17.53.14.jpeg…]()
+![alt text][Uploading photo_2024-05-28 17.53.14.jpeg…]()
 
 # Welcome! I'm Dilshodi Kahori
 ## Introduction 🙂
