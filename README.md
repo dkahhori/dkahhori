@@ -1,4 +1,4 @@
-![photo_2024-05-28 17 53 14](https://github.com/dkahhori/dkahhori/assets/101136418/53100f3a-5020-4c91-8262-47f17315af9b)
+![photo_2024-05-28 17 53 14]![photo_2024-05-24 21 02 42](https://github.com/dkahhori/dkahhori/assets/101136418/9368254f-9c8e-4935-a322-0f34a054f863)
 
 # Welcome! I'm Dilshodi Kahori
 ## Introduction 🙂
