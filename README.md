@@ -1,4 +1,4 @@
-![alt text][Uploading photo_2024-05-28 17.53.14.jpeg…]()
+![photo_2024-05-28 17 53 14](https://github.com/dkahhori/dkahhori/assets/101136418/53100f3a-5020-4c91-8262-47f17315af9b)
 
 # Welcome! I'm Dilshodi Kahori
 ## Introduction 🙂
